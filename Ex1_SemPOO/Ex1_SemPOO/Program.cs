@@ -6,10 +6,10 @@ namespace Ex1_SemPOO
     {
         static void Main(string[] args)
         {
-            double xA, xB, xC;
-            double yA, yB,yC;
-            double p;
-            double areaX, areaY;
+            double xA, xB, xC; //lado triangulo X
+            double yA, yB,yC;  //lado trinagulo y
+            double p;          //perimetro
+            double areaX, areaY; //area X e Y
 
 
 
