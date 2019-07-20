@@ -36,7 +36,7 @@ namespace ConsoleApplication1
                         Console.WriteLine(" A adição dos numeros e : " + (iNumero1 + iNumero2));
                         break;
                     case 2:
-                        Console.WriteLine(" A subitração dos numeros e : " + (iNumero1 - iNumero2));
+                        Console.WriteLine(" A subtração dos numeros e : " + (iNumero1 - iNumero2));
                         break;
                     case 3:
                         Console.WriteLine(" A multiplicação dos numeros e : " + (iNumero1 * iNumero2));
